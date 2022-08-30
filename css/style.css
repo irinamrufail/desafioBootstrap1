@@ -1,0 +1,44 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+#header{
+    height: 20vh;
+    margin: 10px;
+    padding: 10px;
+}
+
+#menu{
+    height: 10vh;
+    margin: 10px;
+    padding: 10px;
+}
+
+#main{
+    height: 80vh;
+    margin: 10px;
+    padding: 10px;
+}
+
+#pie{
+    height: 10vh;
+    margin: 10px;
+}
+
+
+@media (min-width: 576px) { }
+
+@media (min-width: 768px) {  }
+
+
+@media (min-width: 992px) {  }
+
+
+@media (min-width: 1200px) {  }
+
+@media (min-width: 1400px) {
+    .header{
+        margin-top: 10px;
+    }
+} 
